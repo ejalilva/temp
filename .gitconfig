@@ -1,0 +1,7 @@
+[core]
+        pager = less -F -X -R
+[push]
+        default = simple
+[user]
+        email = ehsan.jalilvand@nasa.gov
+        name = Ehsan Jalilvand
